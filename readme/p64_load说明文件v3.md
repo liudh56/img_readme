@@ -11,7 +11,7 @@
 1.2  1.3  1.4  1.5  1.55 1.6
 ```
 
-![模型](https://pic.imgdb.cn/item/6619e7df68eb935713ab513c.png)    
+![模型](https://raw.githubusercontent.com/liudh56/img_readme/main/img/20240413171033.png)
 
 其中,第四行表示荷载的加荷位置和大小（线密度）     
 
@@ -23,7 +23,7 @@
 
 对应下图中的红色位置
 
-![加载位置](https://pic.imgdb.cn/item/6619e7bc68eb935713ab1a65.png)
+![加载位置](https://raw.githubusercontent.com/liudh56/img_readme/main/img/20240413171123.png)
 
 # 源代码
 
@@ -109,7 +109,7 @@ if (tree_load/=0) then !荷载不为零再进行运算
 end if
 ```
 
-![单元节点](https://pic.imgdb.cn/item/6619e75e68eb935713aadeb2.png)
+![单元节点](https://raw.githubusercontent.com/liudh56/img_readme/main/img/20240413171149.png)
 
 <br/>
 
