@@ -1,0 +1,66 @@
+# macOS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java
+*.jar
+*.war
+*.ear
+
+# C++
+*.obj
+*.pch
+*.pdb
+
+# Go
+*.exe
+*.test
+*.out
+
+# Rust
+/target/
+
+# General backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
